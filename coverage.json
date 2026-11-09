@@ -1,0 +1,28 @@
+{
+  "counts": {
+    "bodies": 0,
+    "jurisdiction": 1,
+    "measures": 0,
+    "meetings": 0,
+    "offices": 0,
+    "officials": 10,
+    "sources": 7
+  },
+  "gaps": [
+    "county bodies and offices are not generated in slice 1; the county seat is resolved from the state and federal datasets only",
+    "global-law has no corpus for jur:us-ca:county:06037 yet; nearest: state (united-states/california), country (united-states/federal). This repo references those corpora by path and pinned commit and never copies their text."
+  ],
+  "id": "jur:us-ca:county:06037",
+  "lookup_gaps": [],
+  "schema_version": "civic/1",
+  "sources": [
+    "source:eface1276269399b",
+    "source:d67cc2aa6a7260fe",
+    "source:c6d4b0567ed921dc",
+    "source:3382c277d794eaa1",
+    "source:608526d4f038440a",
+    "source:1ff83857c549a7a2",
+    "source:5907ddaa6bb1452c"
+  ],
+  "status": "seed"
+}

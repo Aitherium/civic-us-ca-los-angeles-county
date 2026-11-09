@@ -1,0 +1,56 @@
+{
+  "contact": {
+    "office_email": "senator.durazo@senate.ca.gov",
+    "office_phone": "916-651-4026",
+    "official_website": "https://sd26.senate.ca.gov/"
+  },
+  "district": "26",
+  "generation": {
+    "at": "2026-11-09",
+    "content_hash": "sha256:f75e56b195cadb0db604d5319ae720ab7f4f9fb7bb84e5fea685a71dd8530ed9",
+    "generator": "civic_repo_gen/0.1.0",
+    "source_snapshot": {
+      "boundaries": "",
+      "law": "47a4f1a36ff92d20cd4f573143b89cf54ad58f44",
+      "officials": "2026-11-09T17:45:25Z",
+      "units": "2026-11-09"
+    }
+  },
+  "id": "official:ocd-person/b3f55460-f87b-4db4-b6a5-35a735f34076/2025-01-03",
+  "jurisdiction": "jur:us-ca",
+  "kind": "official",
+  "level": "state",
+  "overrides": [],
+  "person": {
+    "full_name": "María Elena Durazo",
+    "party": "Democratic"
+  },
+  "privacy": "public-official",
+  "provenance": {
+    "added_at": "2026-11-09",
+    "added_by": "civic_repo_gen/0.1.0",
+    "evidence": {},
+    "sources": [
+      {
+        "license": "CC0-1.0",
+        "retrieved_at": "2026-11-09",
+        "source_id": "source:d67cc2aa6a7260fe",
+        "url": "https://github.com/openstates/people"
+      }
+    ],
+    "validated": {
+      "at": "2026-11-09",
+      "by": "civic_repo_gen/0.1.0",
+      "method": "generated-official"
+    },
+    "vouches": []
+  },
+  "schema_version": "civic/1",
+  "status": "current",
+  "term": {
+    "end": null,
+    "start": "2025-01-03",
+    "status": "current"
+  },
+  "title": "María Elena Durazo (State Senator)"
+}
