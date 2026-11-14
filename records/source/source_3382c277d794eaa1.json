@@ -1,7 +1,8 @@
 {
+  "content_hash": "sha256:f2d0700864c813e04f1b279bcfb03bb5741e49fc90953d9c14f3adceed966a8e",
   "generation": {
     "at": "2026-11-09",
-    "content_hash": "sha256:96266b6200779a99d246a6502ff64cd9fbd102ad3c2cc8acf35020beeb8bf1e4",
+    "content_hash": "sha256:9fc8b7491302b51b75d1e5f3832f4e346eb41199cb0d5bd0ec7a3f9961103403",
     "generator": "civic_repo_gen/0.1.0",
     "source_snapshot": {
       "boundaries": "",
@@ -10,7 +11,7 @@
       "units": "2026-11-09"
     }
   },
-  "http_status": 0,
+  "http_status": 200,
   "id": "source:3382c277d794eaa1",
   "jurisdiction": "",
   "kind": "source",
@@ -32,9 +33,9 @@
       }
     ],
     "validated": {
-      "at": "2026-11-09",
-      "by": "civic_repo_gen/0.1.0",
-      "method": "generated-official"
+      "at": "2026-11-14",
+      "by": "civic-verify-bot",
+      "method": "source-fetched"
     },
     "vouches": []
   },
