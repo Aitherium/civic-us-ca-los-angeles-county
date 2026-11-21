@@ -1,7 +1,8 @@
 {
+  "content_hash": "sha256:1799c6eac2a563a917a79c8437b627e472abffaa30c0ef114ef1cc05f55014b8",
   "generation": {
     "at": "2026-11-09",
-    "content_hash": "sha256:d1854e554afc69055adc0d16fde36b6473d426f43c7f44aa803fb0a51ef07db3",
+    "content_hash": "sha256:0cce5677289d6cd4745a561b7066dec409b21f0623147b4952b83a7f1f9a319f",
     "generator": "civic_repo_gen/0.1.0",
     "source_snapshot": {
       "boundaries": "",
@@ -10,10 +11,11 @@
       "units": "2026-11-09"
     }
   },
-  "http_status": 0,
+  "http_status": 200,
   "id": "source:c6d4b0567ed921dc",
   "jurisdiction": "",
   "kind": "source",
+  "last_modified": "Sat, 21 Nov 2026 06:25:46 GMT",
   "license": "CC0-1.0",
   "media_type": "html",
   "note": "not fetched by the generator; tools/verify.py fetches it",
@@ -32,9 +34,9 @@
       }
     ],
     "validated": {
-      "at": "2026-11-09",
-      "by": "civic_repo_gen/0.1.0",
-      "method": "generated-official"
+      "at": "2026-11-21",
+      "by": "civic-verify-bot",
+      "method": "source-fetched"
     },
     "vouches": []
   },
